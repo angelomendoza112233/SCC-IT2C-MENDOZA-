@@ -1,7 +1,7 @@
 
 package javaapplication3;
 
-//import java.util.Scanner;
+import java.util.Scanner;
 //import java.text.DecimalFormat;
 
 public class JavaApplication3 {
@@ -10,13 +10,14 @@ public class JavaApplication3 {
 
     public static void main(String[] args) {
         
-        
-        
-        
+//              
+//   grades gr = new grades();
+//   gr.getGrade();
+//  
 //        netPay gpay=new netPay();
 //        gpay.getpay();
 //    
-            product p = new product();
+            product p = new product();              
             p.addProduct(10011, "Soap", 20.00, 20, 30);
             p.viewProduct();
         
